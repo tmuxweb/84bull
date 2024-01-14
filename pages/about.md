@@ -14,9 +14,9 @@ I consider myself detail-oriented, pragmatic and collaborative. Over the years, 
 
 Beyond working, I enjoy a game of basketball, my bike, Fujifilm camera and tinkering with embedded electronics, when family time allows.
 
-> [Feel free to reach out - let's connect and talk design ✋](/contact)
-
 My CV is available <a href="https://tommavic.netlify.app/assets/TMcv.pdf" target="_blank">here</a>
+
+> [Feel free to reach out - let's connect and talk design ✋](/contact)
 
 
 

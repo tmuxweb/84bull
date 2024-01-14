@@ -16,7 +16,7 @@ Beyond working, I enjoy a game of basketball, my bike, Fujifilm camera and tinke
 
 > [Feel free to reach out - let's connect and talk design ✋](/contact)
 
-My CV is available <a href="assets/TMcv.pdf" target="_blank">here</a>
+My CV is available <a href="https://tommavic.netlify.app/assets/TMcv.pdf" target="_blank">here</a>
 
 
 

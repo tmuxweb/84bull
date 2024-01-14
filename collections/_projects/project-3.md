@@ -1,22 +1,18 @@
 ---
-layout: project-left
-title: "Cubist Urban Home"
-description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
-date: 2018-12-20
-weight: 2
-thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
+layout: project
+title: "HealthTalk"
+description: "cloud-based medical speech recognition system"
+weight: 3
+permalink: /projects/project-3
+thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.jpg"
 image: "/assets/images/gen/projects/project-3-1.webp"
-client: "Region of Valencia"
-categories: ["Development"]
-role: "Building Designer"
+deight: "Apr 2022 - Dec 2022"
+client: "Knowl Solutions BV"
+role: "Product Designer"
 gallery:
-  - image: "/assets/images/gen/projects/project-3-1.webp"
-  - image: "/assets/images/gen/projects/project-3-4.webp"
-  - image: "/assets/images/gen/projects/project-3-7.webp"
+  - image: "/assets/images/gen/projects/project3.png"
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+HealthTalk is a secure, cloud-based medical speech recognition solution able to transcribe the oral conversation (anamnesis) between a healthcare provider and patient, recording it for patient record (PBL) and for healthcare provider in a standard format (FHIR).
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
-
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+In the following presentation images, you will find a general summary of my contributions to this project, excluding any sensitive/proprietary information related to it.

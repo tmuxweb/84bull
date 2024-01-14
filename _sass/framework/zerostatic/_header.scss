@@ -7,7 +7,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    height: var(--header-height);
+    height: $header-height * 3 ;
     .logos {
       margin-right: auto;
     }

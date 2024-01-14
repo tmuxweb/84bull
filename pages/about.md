@@ -1,46 +1,23 @@
 ---
 layout: basic
-title: "About Us"
-date: 2018-11-28T15:15:34+10:00
+title: "About me"
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
-image: "/assets/images/gen/content/content-5.webp"
+description: ""
+image: ""
 ---
 
-# Creating Modern Websites
+I appreciate your interest in learning more about my background. ✋
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+I'm a computer technician by vocation, born and raised on the Adriatic coast of Croatia, with more than a decade of professional experience in digital design. I've been involved in a diverse range of projects during my career, covering fields such as eHealth, telematics, data, web3, IoT, digital marketing etc. I've gained valuable insights into numerous product development cycles, as well as user and business goals, and learned how to give and solicit feedback without being overly attached to my work when constructive feedback is put forward.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+I consider myself detail-oriented, pragmatic and collaborative. Over the years, I've held both project-based and full-time roles in various distributed and async teams, always striving for diligence and discipline in remote work. With professional proficiency in verbal and written English, I'm able to hold fluent conversations and communicate ideas and pitches efficiently and succinctly.
 
-## What is Web Design?
+Beyond working, I enjoy a game of basketball, my bike, Fujifilm camera and tinkering with embedded electronics, when family time allows.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+> [Feel free to reach out - let's connect and talk design ✋](/contact)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+My CV is available <a href="https://tomislavmavrovic.com/TomMavCV.pdf" target="_blank">here</a>
 
-## Front-end Development
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
 
-> As a UX designer, you should consider the Why, What and How of product use.
-
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+<br>

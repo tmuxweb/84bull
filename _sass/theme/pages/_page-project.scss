@@ -31,6 +31,7 @@
           vertical-align: bottom;
           max-width: 100%;
           height: auto;
+          border-radius: 16px;
         }
       }
       .gallery-caption {
@@ -75,14 +76,14 @@
     .gallery-sizer {
       width: 100%;
       @include media-breakpoint-up(md) {
-        width: 50%;
+        width: 100%;
       }
     }
     .gallery-item {
       padding: 15px;
       width: 100%;
       @include media-breakpoint-up(md) {
-        width: 50%;
+        width: 100%;
       }
     }
   }
@@ -96,6 +97,7 @@
   }
   .project-date,
   .project-role,
+  .project-deight,  
   .project-client {
     margin-bottom: 10px;
     font-size: 16px;

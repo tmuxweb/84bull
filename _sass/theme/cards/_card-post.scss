@@ -33,7 +33,6 @@
     display: flex;
     flex: 1;
     flex-direction: column;
-    padding: 0;
   }
   .card-title {
     h2,
@@ -55,9 +54,10 @@
     p {
       line-height: 1.5;
       font-weight: 400;
-      font-size: 16px;
+      font-size: 19px;
       color: var(--color-base-text-2);
       margin: 0;
+      width: 96%;
     }
   }
   .card-title + .card-description {

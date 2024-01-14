@@ -18,34 +18,36 @@
   }
   .heading-heading {
     h1 {
-      font-size: 36px;
+      font-size: 32px;
       letter-spacing: -1px;
       line-height: 1.1;
       font-weight: 700;
       font-family: var(--font-family-heading);
       @include media-breakpoint-up(md) {
-        font-size: 46px;
+        font-size: 72px;
         line-height: 1;
+        width: 80%;
         letter-spacing: -2px;
       }
       strong {
         font-style: normal;
-        text-decoration-line: underline;
-        text-decoration-color: var(--color-primary-bg);
+        color: rgb(255, 84, 0);
       }
     }
   }
   .heading-description {
+    width: 100%;
     p {
-      font-size: 22px;
-      letter-spacing: -1px;
-      line-height: 1.24;
+      font-size: 19px;
+      letter-spacing: 0px;
+      line-height: 1.45;
       font-family: var(--font-family-base);
       color: var(--color-base-text-2);
       @include media-breakpoint-up(md) {
-        font-size: 26px;
-        letter-spacing: 1px;
-        line-height: 1.4;
+        font-size: 23px;
+        letter-spacing: 0px;
+        line-height: 1.45;
+        width: 90%;
       }
     }
   }

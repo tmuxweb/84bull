@@ -171,7 +171,7 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "Tom Mavic"
-  footer_description: "Tom Mavic - Digital Designer"
+  footer_description: "Digital Designer"
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: true

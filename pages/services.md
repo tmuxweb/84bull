@@ -8,11 +8,11 @@ image: ""
 
 > I help startups and businesses improve the user experience and resolve user retention issues of their digital products.
 
-The core focus of my work is to **craft frictionless, intuitive and accessible experiences** through visual design. The concept itself is not complicated on the face of it, but achieving it necessitates structured and proper planning.
+The core focus of my product design is to **craft frictionless, intuitive and accessible experiences** for web, native and hybrid applications. The concept itself may sound simple on the face of it, but achieving it necessitates proper and structured planning.
 
 I approach each project objectively and without bias, from an impartial and neutral perspective, allowing for a prompt and clear understanding of its friction points, as well as the tacit and latent user needs related to it. 
 
-There are three core types of services that I provide. Despite being highlighted separately, these three services are all interdependent as a result of their natural overlaps. Based on the specifics of your project, each of the three can be combined or delivered as a standalone service.
+There are three core types of services that I provide, all of which are interdependent as a result of their natural overlaps, despite being highlighted separately. Based on the specifics of your project, each of the three can be either combined, or delivered as a standalone service.
 
 ## 🧭 UX & UI Design
 Improving digital products by solving their user retention issues, enhancing the user experience and improving how digital interfaces look and behave.

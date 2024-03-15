@@ -10,7 +10,7 @@ deight: "2015 - 2023"
 client: "Various"
 role: "Digital Design"
 gallery:
-  - image: "https://cdn.jsdelivr.net/gh/tmuxweb/tarheel/assets/images/gen/projects/project6.png"
+  - image: "https://i.imgur.com/On0q1mE.png"
 ---
 
 Samples of past works from various short-term roles I have worked on, in the areas of general visual design, branding, and UX.

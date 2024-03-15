@@ -15,4 +15,4 @@ gallery:
 
 Samples of past works from various short-term roles I have worked on, in the areas of general visual design, branding, and UX.
 
-In the following presentation images, you will find a general summary of my previous work, excluding any sensitive/proprietary information related to it.
+In the following presentation images, you will find a general summary of my previous work, excluding any sensitive / proprietary information related to it.
